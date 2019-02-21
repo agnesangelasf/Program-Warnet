@@ -1,0 +1,20 @@
+c:\users\lidya gsk\documents\visual studio 2010\Projects\Praktek PEMDAD Pa Arif\Praktek PEMDAD Pa Arif\bin\Debug\Praktek PEMDAD Pa Arif.exe
+c:\users\lidya gsk\documents\visual studio 2010\Projects\Praktek PEMDAD Pa Arif\Praktek PEMDAD Pa Arif\bin\Debug\Praktek PEMDAD Pa Arif.pdb
+c:\users\lidya gsk\documents\visual studio 2010\Projects\Praktek PEMDAD Pa Arif\Praktek PEMDAD Pa Arif\bin\Debug\Praktek PEMDAD Pa Arif.xml
+c:\users\lidya gsk\documents\visual studio 2010\Projects\Praktek PEMDAD Pa Arif\Praktek PEMDAD Pa Arif\obj\x86\Debug\Praktek_PEMDAD_Pa_Arif.Form1.resources
+c:\users\lidya gsk\documents\visual studio 2010\Projects\Praktek PEMDAD Pa Arif\Praktek PEMDAD Pa Arif\obj\x86\Debug\Praktek_PEMDAD_Pa_Arif.Resources.resources
+c:\users\lidya gsk\documents\visual studio 2010\Projects\Praktek PEMDAD Pa Arif\Praktek PEMDAD Pa Arif\obj\x86\Debug\PRAKTEK WARNET.vbproj.GenerateResource.Cache
+c:\users\lidya gsk\documents\visual studio 2010\Projects\Praktek PEMDAD Pa Arif\Praktek PEMDAD Pa Arif\obj\x86\Debug\Praktek PEMDAD Pa Arif.exe
+c:\users\lidya gsk\documents\visual studio 2010\Projects\Praktek PEMDAD Pa Arif\Praktek PEMDAD Pa Arif\obj\x86\Debug\Praktek PEMDAD Pa Arif.xml
+c:\users\lidya gsk\documents\visual studio 2010\Projects\Praktek PEMDAD Pa Arif\Praktek PEMDAD Pa Arif\obj\x86\Debug\Praktek PEMDAD Pa Arif.pdb
+c:\users\lidya gsk\documents\visual studio 2010\Projects\Praktek PEMDAD Pa Arif\Praktek PEMDAD Pa Arif\obj\x86\Debug\Praktek_PEMDAD_Pa_Arif.Form2.resources
+C:\Users\Lidya GSK\Documents\Visual Studio 2010\Projects\PRAKTEK WARNET\Praktek PEMDAD Pa Arif\obj\x86\Debug\Praktek PEMDAD Pa Arif.exe
+C:\Users\Lidya GSK\Documents\Visual Studio 2010\Projects\PRAKTEK WARNET\Praktek PEMDAD Pa Arif\obj\x86\Debug\Praktek PEMDAD Pa Arif.xml
+C:\Users\Lidya GSK\Documents\Visual Studio 2010\Projects\PRAKTEK WARNET\Praktek PEMDAD Pa Arif\obj\x86\Debug\Praktek PEMDAD Pa Arif.pdb
+C:\Users\Lidya GSK\Documents\Visual Studio 2010\Projects\PRAKTEK WARNET\Praktek PEMDAD Pa Arif\bin\Debug\Praktek PEMDAD Pa Arif.exe
+C:\Users\Lidya GSK\Documents\Visual Studio 2010\Projects\PRAKTEK WARNET\Praktek PEMDAD Pa Arif\bin\Debug\Praktek PEMDAD Pa Arif.pdb
+C:\Users\Lidya GSK\Documents\Visual Studio 2010\Projects\PRAKTEK WARNET\Praktek PEMDAD Pa Arif\bin\Debug\Praktek PEMDAD Pa Arif.xml
+C:\Users\Lidya GSK\Documents\Visual Studio 2010\Projects\PRAKTEK WARNET\Praktek PEMDAD Pa Arif\obj\x86\Debug\Praktek_PEMDAD_Pa_Arif.Form1.resources
+C:\Users\Lidya GSK\Documents\Visual Studio 2010\Projects\PRAKTEK WARNET\Praktek PEMDAD Pa Arif\obj\x86\Debug\Praktek_PEMDAD_Pa_Arif.Resources.resources
+C:\Users\Lidya GSK\Documents\Visual Studio 2010\Projects\PRAKTEK WARNET\Praktek PEMDAD Pa Arif\obj\x86\Debug\PRAKTEK WARNET.vbproj.GenerateResource.Cache
+C:\Users\Lidya GSK\Documents\Visual Studio 2010\Projects\PRAKTEK WARNET\Praktek PEMDAD Pa Arif\obj\x86\Debug\Praktek_PEMDAD_Pa_Arif.Pembayaran.resources
